@@ -1,0 +1,26 @@
+[
+  {
+
+  	"beauty.shop.hair.color.changer.different.hair.colors": {
+        "am_ba": "",
+        "am_in": "",
+        "am_na": "",
+
+         "fb_ba": "+lY/sFcNtdg2vBC58MlYAp1QmKnQih96bCHKr2zuHHg=",
+        "fb_in": "+lY/sFcNtdg2vBC58MlYAilcRs7CrDmIc+mavd9WItI=",
+        "fb_re": "+lY/sFcNtdg2vBC58MlYAjyw7SHMBicKRKO/dfHEFbU=",
+        "fb_na": "+lY/sFcNtdg2vBC58MlYAoI6C9xHhRuaY2wA2T9gMsY=",
+
+        "ads_list": ["fb"]
+    },
+    "com.beauty.photo.editor": {
+      "am_ba": "Rn0pSEgDeaQjcI0NNQY3RR9F4uKcU6qQBMUZE3y635Sn3KrB9oUgJWeeOWGG31aD",
+      "am_in": "Rn0pSEgDeaQjcI0NNQY3RdAwPxprT3rXQQc0V2PZvjZ26wfY+rFIr8Gk9KWK30R+",
+      "am_na": "Rn0pSEgDeaQjcI0NNQY3RdFpMPee9Zckjl6RY9qcT4xcQx336G008pBCmp1eYGP9"
+    }
+  },{
+"common": {
+	"disable_sa":true}
+	
+ }
+]
