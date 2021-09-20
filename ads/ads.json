@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/luxuryart/artroom/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/luxuryart/artroom/master/ads/graphic.jpg",
-      "appName": "Album Cover Maker",
-      "description": "This is the best app for creating beautiful album covers. Download now and be on your way to using this powerful mixtape cover maker",
-      "package": "com.photo.beauty.plus.album.cover",
+      "cover": "https://raw.githubusercontent.com/luxuryart/artroom/master/ads/graphic.png",
+      "appName": "Selfie Camera Filters",
+      "description": "Snap Face Camera Edit make your photo to look cute girl with hundreds of effects",
+      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
