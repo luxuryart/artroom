@@ -1,16 +1,11 @@
 [
   {
-    "beauty.shop.hair.color.changer.different.hair.colors": {
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-      "fb_ba": "+lY/sFcNtdg2vBC58MlYAp1QmKnQih96bCHKr2zuHHg=",
-      "fb_in": "+lY/sFcNtdg2vBC58MlYAilcRs7CrDmIc+mavd9WItI=",
-      "fb_re": "+lY/sFcNtdg2vBC58MlYAjyw7SHMBicKRKO/dfHEFbU=",
-      "fb_na": "+lY/sFcNtdg2vBC58MlYAoI6C9xHhRuaY2wA2T9gMsY=",
-      "ads_list": [
-        "fb"
-      ]
+    "com.bar.beauty.artroom.filters.snapchat.snap.camera.filters": {
+      "am_ba": "mlUUFEpbGvc1r4Cul9SwAwhn88KpLqOe0LaUQl561SnoHcgQ/sDq2vZuJm+9lgsB",
+      "am_in": "mlUUFEpbGvc1r4Cul9SwA1yPiN4EOFVOx7z79i+xJLCcG5JScf5u2SMXVchsPQD6",
+      "am_na": "mlUUFEpbGvc1r4Cul9SwAxNqrCbr8zZSizqUF5X70nM8Ams78F79tbZxZDTFnYhF",
+
+      "ads_list": ["am"]
     },
     "com.beauty.photo.debug": {
       "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
