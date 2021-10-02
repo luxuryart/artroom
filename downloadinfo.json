@@ -5,8 +5,24 @@
       "am_in": "mlUUFEpbGvc1r4Cul9SwA1yPiN4EOFVOx7z79i+xJLCcG5JScf5u2SMXVchsPQD6",
       "am_na": "mlUUFEpbGvc1r4Cul9SwAxNqrCbr8zZSizqUF5X70nM8Ams78F79tbZxZDTFnYhF",
 
-      "ads_list": ["am"]
+      "mp_ba": "x6OXSkc2j99wL8jI/s+1bFoeZ5ziLE4IcX2+DAdlKwO1XZiSivs5taYyZ9zJEyzk",
+      "mp_in": "AYxD9H5DRD3p9CYQoCRmUH+sbMqTRt4mEEtrjigCfVglX3klKsWC1yg/mR4kYrKS",
+      "mp_na": "J94k1YBkTQx3BSRf310FnWMp3GtA/vAU5g24wHKlLMkJiDXWiD31LdwCGb5Wj+sD",
+      "mp_re": "n3N/uQilw0Wc5kyXlD+roN48FWaG1Z+2+ZkJ4tfmkROZgligF0znqHeiyG2JZs3s",
+
+
+      "ads_list": ["mp", "am"]
     },
+    "com.bar.beauty.artroom.glitch.photo.editor.camera.VHS.vaporwave": {
+      "mp_ba": "x6OXSkc2j99wL8jI/s+1bFoeZ5ziLE4IcX2+DAdlKwO1XZiSivs5taYyZ9zJEyzk",
+      "mp_in": "AYxD9H5DRD3p9CYQoCRmUH+sbMqTRt4mEEtrjigCfVglX3klKsWC1yg/mR4kYrKS",
+      "mp_na": "J94k1YBkTQx3BSRf310FnWMp3GtA/vAU5g24wHKlLMkJiDXWiD31LdwCGb5Wj+sD",
+      "mp_re": "n3N/uQilw0Wc5kyXlD+roN48FWaG1Z+2+ZkJ4tfmkROZgligF0znqHeiyG2JZs3s",
+
+
+      "ads_list": ["mp"]
+    },
+    
     "com.beauty.photo.debug": {
       "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
       "am_in": "",
