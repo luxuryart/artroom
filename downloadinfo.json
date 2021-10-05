@@ -1,6 +1,20 @@
 [
   {
     "com.bar.beauty.artroom.filters.snapchat.snap.camera.filters": {
+      "am_ba": "mlUUFEpbGvc1r4Cul9SwA6IyDYmfyc54/617Hm6HDdOP8sLxq3+CZN2o53xjoevy",
+      "am_in": "mlUUFEpbGvc1r4Cul9SwA6tC8UBXhe82LFCEllsxNZBfULw+VT7jaKEYZjSPndq4",
+      "am_na": "mlUUFEpbGvc1r4Cul9SwAyne7jdxKP8XwHRtKl0kyIRvoNUFiBczTGR8dfQbeh2+",
+
+      "mp_ba": "",
+      "mp_in": "",
+      "mp_na": "",
+      "mp_re": "",
+
+
+      "ads_list": ["am"]
+    },
+    
+    "com.bar.beauty.artroom.filters.snapchat.snap.camera.filters": {
       "am_ba": "mlUUFEpbGvc1r4Cul9SwAwhn88KpLqOe0LaUQl561SnoHcgQ/sDq2vZuJm+9lgsB",
       "am_in": "mlUUFEpbGvc1r4Cul9SwA1yPiN4EOFVOx7z79i+xJLCcG5JScf5u2SMXVchsPQD6",
       "am_na": "mlUUFEpbGvc1r4Cul9SwAxNqrCbr8zZSizqUF5X70nM8Ams78F79tbZxZDTFnYhF",
