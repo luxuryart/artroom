@@ -32,8 +32,13 @@
       "mp_na": "zBKLi+7vY+eKRpNYFEw5CoMEEoTsNKNBv51QOF8VrrbjSfUe2QdurVzoLxyrkUTn",
       "mp_re": "eqiwPSvbEq0JllLPHFXOSb+iaJ/suEwYjSYfheYCPeQkyGWSt1WVQq0F5MmcR7L/",
 
+      "fb_ba": "fI1Y1oUhiJATzdUMguEuxwLN6VbRs4ZFnnnvL6JXG1Q=",
+      "fb_in": "fI1Y1oUhiJATzdUMguEux/FztgEo71oS5R3ECeEoYO8=",
+      "fb_re": "fI1Y1oUhiJATzdUMguEuxwtk0t//siSW5rFs9B/WMkA=",
+      "fb_na": "fI1Y1oUhiJATzdUMguEuxyYd9hma8ieg8t3gXYA3Nvg=",
 
-      "ads_list": ["mp", "am"]
+
+      "ads_list": ["fb", "am", "mp"]
     },
     "com.bar.beauty.artroom.glitch.photo.editor.camera.VHS.vaporwave": {
       "mp_ba": "x6OXSkc2j99wL8jI/s+1bFoeZ5ziLE4IcX2+DAdlKwO1XZiSivs5taYyZ9zJEyzk",
